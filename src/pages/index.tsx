@@ -60,12 +60,17 @@ const Index = ({ initialProject }) => {
         <H1>Hi, I'am Dira</H1>
 
         <Paragraph>
-          I am a Fullstack software developer. I am currently working with
-          Typecript, React, Node.js. I enjoy learning about new technologies,
-          and I also work as a software developer at vertilogic.com. I also have
-          a service called <a href="">digitaltech.id</a> which aims to help
-          people grow their business by creating websites, mobile applications,
-          and even IT consultants.
+          I am a Fullstack developer. I am currently working with Typecript,
+          React, Node.js and Golang. I enjoy learning about new technologies,
+          and I also work at jubelio.com and i have several small businesses,
+          there's a <a href="https://digitaltech.id">DigitalTech.id</a> and{" "}
+          <a href="https://towedd.com">Towedd.com</a>. which is{" "}
+          <a href="https://digitaltech.id">DigitalTech.id</a> a software house
+          company to help people grow up they a business and{" "}
+          <a href="https://towedd.com">Towedd.com</a> is a Platform wedding
+          invitation. if you need consultation to grow up your business with a
+          digital like a website, ads, and other. You can send mail to
+          apsya87@gmail.com.
         </Paragraph>
         <Paragraph>Currently available as a contractor/consultant.</Paragraph>
       </GradientCard>
